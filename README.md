@@ -58,6 +58,11 @@
 ![snake gif](https://github.com/rajgharat07/rajgharat07/blob/output/github-snake.svg)
 
 <hr/>
+
+## Hacktoberfest 2024 Badges
+[![An image of @rajgharat07's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/rajgharat07)](https://holopin.io/@rajgharat07)
+
+
 <h3 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous%size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+✌🏽;+Shoot+me+a+message+on+Linkedin!;I'm+always+down+to+collab+:)">
 </h3>
