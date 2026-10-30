@@ -59,6 +59,15 @@
 
 <hr/>
 
+<h2 align="center">Open Source Contributions</h2>
+<p align="center">
+  <a href="https://kestra.io/community?from=github-badge">
+    <img src="https://img.shields.io/badge/1st%20PR%20MERGED-KESTRA-1F232C?style=for-the-badge&logo=github&logoColor=200062&labelColor=CDC5FF" alt="Kestra Contributor" />
+  </a>
+</p>
+
+<hr/>
+
 <h2 align="center"> GSSOC EXT 2024 Badges 🪶</h2>
 <div style='display:flex; align-items:center; gap: 10px;' align='center'><a href="https://gssoc.girlscript.tech/leaderboard">
   <img src="https://raw.githubusercontent.com/GSSoC24/Hack-Web3Conf/refs/heads/main/assets/Hack-Web3Conf%202024%20Badge%20(2).png" width="100px" height="100px" />
